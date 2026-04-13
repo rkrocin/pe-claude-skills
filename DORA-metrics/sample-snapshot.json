@@ -1,0 +1,13 @@
+{
+  "team": "Core Banking Services",
+  "description": "Single-period snapshot for benchmark assessment without trend analysis.",
+  "metrics": [
+    {
+      "period": "Q1 2026",
+      "deployment_frequency": 0.8,
+      "lead_time_hours": 168,
+      "mttr_hours": 18,
+      "change_failure_rate": 22
+    }
+  ]
+}
