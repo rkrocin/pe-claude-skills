@@ -1,5 +1,5 @@
 # claude-skills
-useful Platform Eng Claude Skills
+(maybe) useful Platform Eng Claude Skills;
 
 - [Architecture Decision Record Writer](https://github.com/rkrocin/claude-skills/tree/main/adr-writer): generates well-structured Architecture Decision Records from technical decision context, including tradeoff analysis, weighted evaluation matrices, and consequence mapping.
 - [DORA Metrics Narrator](https://github.com/rkrocin/claude-skills/tree/main/DORA-metrics): transforms raw DORA metrics into executive-ready narratives, trend analysis, and actionable improvement recommendations.
