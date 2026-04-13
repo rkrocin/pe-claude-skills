@@ -1,4 +1,4 @@
-# claude-skills
+# pe-claude-skills
 (maybe) useful Platform Eng Claude Skills;
 
 - [Standards-driven IaC](https://github.com/rkrocin/pe-claude-skills/blob/main/standards-driven-IaC/SKILL.md): generates AWS infrastructure-as-code that complies with company standards, policies, and guidelines extracted from uploaded documents.
