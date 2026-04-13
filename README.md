@@ -8,3 +8,5 @@ useful Platform Eng Claude Skills
 - [Golden Path Generator](https://github.com/rkrocin/claude-skills/tree/main/golden-path-generator): generates opinionated, production-ready service scaffolds with infrastructure, CI/CD, observability, and security built in from the first commit.
 - [Homebrew Tools](https://github.com/rkrocin/claude-skills/tree/main/homebrew): tools that Claude Code actually uses — either directly via shell commands or as the engine behind its built-in tools. These aren't cosmetic; they make searches faster, output more useful, and workflows more capable.
 - [Certification Study Planner](https://github.com/rkrocin/claude-skills/tree/main/cert-study-planner): Generate structured study plans for professional certifications with topic breakdown, resource recommendations, milestone scheduling, and readiness assessment checkpoints.
+- [Incident Postmortem Drafter](https://github.com/rkrocin/claude-skills/blob/main/incident-postmortem-drafter/sample-postmortem-cascade.md): helps draft incident post-mortems
+  
