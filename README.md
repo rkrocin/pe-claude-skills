@@ -1,7 +1,7 @@
 # claude-skills
 (maybe) useful Platform Eng Claude Skills;
 
-- [Standards-driven IaC](https://github.com/rkrocin/pe-claude-skills/blob/main/standards-driven-IaC/SKILL.md): generate AWS infrastructure-as-code that complies with company standards, policies, and guidelines extracted from uploaded documents.
+- [Standards-driven IaC](https://github.com/rkrocin/pe-claude-skills/blob/main/standards-driven-IaC/SKILL.md): generates AWS infrastructure-as-code that complies with company standards, policies, and guidelines extracted from uploaded documents.
 - [Architecture Decision Record Writer](https://github.com/rkrocin/claude-skills/tree/main/adr-writer): generates well-structured Architecture Decision Records from technical decision context, including tradeoff analysis, weighted evaluation matrices, and consequence mapping.
 - [DORA Metrics Narrator](https://github.com/rkrocin/claude-skills/tree/main/DORA-metrics): transforms raw DORA metrics into executive-ready narratives, trend analysis, and actionable improvement recommendations.
 - [Compliance Evidence Mapper](https://github.com/rkrocin/claude-skills/tree/main/compliance-evidence-mapper): maps existing infrastructure controls to regulatory compliance framework requirements, identifies gaps, and generates audit-ready evidence matrices with remediation plans.
