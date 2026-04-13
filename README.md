@@ -9,4 +9,5 @@ useful Platform Eng Claude Skills
 - [Homebrew Tools](https://github.com/rkrocin/claude-skills/tree/main/homebrew): tools that Claude Code actually uses — either directly via shell commands or as the engine behind its built-in tools. These aren't cosmetic; they make searches faster, output more useful, and workflows more capable.
 - [Certification Study Planner](https://github.com/rkrocin/claude-skills/tree/main/cert-study-planner): Generate structured study plans for professional certifications with topic breakdown, resource recommendations, milestone scheduling, and readiness assessment checkpoints.
 - [Incident Postmortem Drafter](https://github.com/rkrocin/claude-skills/blob/main/incident-postmortem-drafter/sample-postmortem-cascade.md): helps draft incident post-mortems
+- [Product Brief Generator](https://github.com/rkrocin/claude-skills/tree/main/product-brief-generator): Takes a platform capability idea and generates a product brief with problem statement, user personas, success metrics, technical approach, and go/no-go criteria. Relevant to how platform teams operate as product organizations rather than project shops.
   
